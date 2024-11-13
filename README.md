@@ -8,8 +8,8 @@
 **Data Enthusiasts** 
 - 🌱 I’m currently into **Data Analyst** 
 - 👨‍💻 All of my projects are available at [my LinkedIn Profile](https://www.linkedin.com/in/yogeshpednekar)
-- - 💬 Ask me about **PYTHON, DATA ANALYSIS, BUSINESS INTELLIGENCE**
- - 📫 How to reach me: **PEDNEKARYOGESH428@GMAIL.COM**
+-  💬 Ask me about **PYTHON, DATA ANALYSIS, BUSINESS INTELLIGENCE**
+- 📫 How to reach me: **PEDNEKARYOGESH428@GMAIL.COM**
 
  
 <h3 align="left">Connect with me:</h3>
