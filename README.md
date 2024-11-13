@@ -1,19 +1,15 @@
 <h1 align="center">  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Yogesh R P</h1>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Data Analysis.;%E2%9C%A8+Business Analysts.;%F0%9F%94%A5+Pyhton." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Data Analysis.;%E2%9C%A8+Business Analyst.;%F0%9F%94%A5+Pyhton." alt="Typing SVG" /></a>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Date enthusiasts`**
-
-- 🌱 I’m currently into **Data analysis**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/yogeshpednekar](www.linkedin.com/in/yogeshpednekar)
-
-- 💬 Ask me about **PYTHON , DATA ANALYSIS ,BUSNIESS INTELLINCE**
-
-- 📫 How to reach me **PEDNEKARYOGESH428@GMAIL.COM**
+**Data Enthusiasts** 
+- 🌱 I’m currently into **Data Analyst** 
+- 👨‍💻 All of my projects are available at [my LinkedIn Profile](https://www.linkedin.com/in/yogeshpednekar)
+- - 💬 Ask me about **PYTHON, DATA ANALYSIS, BUSINESS INTELLIGENCE**
+ - 📫 How to reach me: **PEDNEKARYOGESH428@GMAIL.COM**
 
  
 <h3 align="left">Connect with me:</h3>
