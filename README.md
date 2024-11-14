@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meyogeshr&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEYOGESHR&layout=compact" alt="Top Langs" />
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=meyogeshr&show_icons=true&locale=en" alt="GitHub Stats" /> </p>
